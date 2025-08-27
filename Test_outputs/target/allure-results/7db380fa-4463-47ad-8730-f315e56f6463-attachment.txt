@@ -1,0 +1,11 @@
+[INFO] 25-08-2025 22:53:13 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:29)] - chrome
+[INFO] 25-08-2025 22:53:16 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:31)] - chrome driver is opened
+[INFO] 25-08-2025 22:53:17 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:33)] - Page is redirected to the URL
+[INFO] 25-08-2025 22:53:17 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 25-08-2025 22:53:18 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case validLoginTC started
+[INFO] 25-08-2025 22:53:18 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case validLoginTC passed
+[INFO] 25-08-2025 22:53:19 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 25-08-2025 22:53:19 [main] [Tests.TC02LandingTest.login(TC02LandingTest.java:30)] - chrome
+[INFO] 25-08-2025 22:53:21 [main] [Tests.TC02LandingTest.login(TC02LandingTest.java:32)] - Edge driver is opened
+[INFO] 25-08-2025 22:53:23 [main] [Tests.TC02LandingTest.login(TC02LandingTest.java:34)] - Page is redirected to the URL
+[INFO] 25-08-2025 22:53:25 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case login passed

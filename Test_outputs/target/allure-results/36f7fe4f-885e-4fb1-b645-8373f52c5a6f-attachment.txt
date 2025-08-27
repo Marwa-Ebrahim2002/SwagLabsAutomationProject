@@ -1,0 +1,17 @@
+[INFO] 15-08-2025 11:30:24 [main] [Tests.TC03CartTest.setup(TC03CartTest.java:30)] - null
+[INFO] 15-08-2025 11:30:28 [main] [Tests.TC03CartTest.setup(TC03CartTest.java:32)] - Edge driver is opened
+[INFO] 15-08-2025 11:30:29 [main] [Tests.TC03CartTest.setup(TC03CartTest.java:34)] - Page is redirected to the URL
+[INFO] 15-08-2025 11:30:29 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 15-08-2025 11:30:30 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case comparingPricesTC started
+[INFO] 15-08-2025 11:30:30 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:59)] - randomNumber 2
+[INFO] 15-08-2025 11:30:31 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:59)] - randomNumber 6
+[INFO] 15-08-2025 11:30:31 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:82)] - Total Price 25.98
+[INFO] 15-08-2025 11:30:32 [main] [Pages.P03_CartPage.getTotalPrice(P03_CartPage.java:31)] - Total Price 25.98
+[INFO] 15-08-2025 11:30:32 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case comparingPricesTC passed
+[INFO] 15-08-2025 11:30:32 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 15-08-2025 11:30:32 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:29)] - null
+[INFO] 15-08-2025 11:30:35 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:31)] - chrome driver is opened
+[INFO] 15-08-2025 11:30:36 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:33)] - Page is redirected to the URL
+[INFO] 15-08-2025 11:30:36 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 15-08-2025 11:30:36 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case validLoginTC started
+[INFO] 15-08-2025 11:30:37 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case validLoginTC passed

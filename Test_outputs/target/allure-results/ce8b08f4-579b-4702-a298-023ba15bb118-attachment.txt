@@ -1,0 +1,4 @@
+[INFO] 25-08-2025 22:24:58 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:29)] - null
+[INFO] 25-08-2025 22:25:02 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:31)] - chrome driver is opened
+[INFO] 25-08-2025 22:25:03 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:33)] - Page is redirected to the URL
+[INFO] 25-08-2025 22:25:03 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed

@@ -1,0 +1,3 @@
+[INFO] 15-08-2025 00:43:02 [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:36)] - null
+[INFO] 15-08-2025 00:43:04 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case setup failed
+[ERROR] 15-08-2025 00:43:04 [main] [Utilities.Utility.takeScreenShot(Utility.java:72)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null

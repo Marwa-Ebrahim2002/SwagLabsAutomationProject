@@ -1,0 +1,7 @@
+[INFO] 14-08-2025 01:09:52 [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:30)] - null
+[INFO] 14-08-2025 01:09:54 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case setup failed
+[ERROR] 14-08-2025 01:09:54 [main] [Utilities.Utility.takeScreenShot(Utility.java:72)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+[INFO] 14-08-2025 01:09:54 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case comparingPricesTC started
+[INFO] 14-08-2025 01:09:54 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case comparingPricesTC skipped
+[INFO] 14-08-2025 01:09:54 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case quit failed
+[ERROR] 14-08-2025 01:09:54 [main] [Utilities.Utility.takeScreenShot(Utility.java:72)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null

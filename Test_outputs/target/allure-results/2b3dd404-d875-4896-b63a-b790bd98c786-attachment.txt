@@ -1,0 +1,4 @@
+[INFO] 15-08-2025 17:04:14 [main] [Tests.TC05OverviewTest.setup(TC05OverviewTest.java:33)] - null
+[INFO] 15-08-2025 17:04:17 [main] [Tests.TC05OverviewTest.setup(TC05OverviewTest.java:35)] - Edge driver is opened
+[INFO] 15-08-2025 17:04:19 [main] [Tests.TC05OverviewTest.setup(TC05OverviewTest.java:37)] - Page is redirected to the URL
+[INFO] 15-08-2025 17:04:19 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed

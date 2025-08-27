@@ -1,0 +1,10 @@
+[INFO] 15-08-2025 16:16:47 [main] [Tests.TC03CartTest.setup(TC03CartTest.java:30)] - null
+[INFO] 15-08-2025 16:18:00 [main] [Tests.TC03CartTest.setup(TC03CartTest.java:32)] - Edge driver is opened
+[INFO] 15-08-2025 16:18:08 [main] [Tests.TC03CartTest.setup(TC03CartTest.java:34)] - Page is redirected to the URL
+[INFO] 15-08-2025 16:18:08 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 15-08-2025 16:18:08 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case comparingPricesTC started
+[INFO] 15-08-2025 16:18:08 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:59)] - randomNumber 2
+[INFO] 15-08-2025 16:18:09 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:59)] - randomNumber 6
+[INFO] 15-08-2025 16:18:09 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:82)] - Total Price 25.98
+[INFO] 15-08-2025 16:18:09 [main] [Pages.P03_CartPage.getTotalPrice(P03_CartPage.java:31)] - Total Price 25.98
+[INFO] 15-08-2025 16:18:09 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case comparingPricesTC passed

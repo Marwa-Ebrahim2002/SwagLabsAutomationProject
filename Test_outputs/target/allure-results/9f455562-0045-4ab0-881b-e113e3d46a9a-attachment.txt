@@ -1,0 +1,22 @@
+[INFO] 15-08-2025 16:10:24 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:29)] - chrome
+[INFO] 15-08-2025 16:10:27 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:31)] - chrome driver is opened
+[INFO] 15-08-2025 16:10:34 [main] [Tests.TC01LoginTest.setup(TC01LoginTest.java:33)] - Page is redirected to the URL
+[INFO] 15-08-2025 16:10:34 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 15-08-2025 16:10:34 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case validLoginTC started
+[INFO] 15-08-2025 16:10:35 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case validLoginTC passed
+[INFO] 15-08-2025 16:10:35 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case quit passed
+[INFO] 15-08-2025 16:10:35 [main] [Tests.TC02LandingTest.login(TC02LandingTest.java:30)] - chrome
+[INFO] 15-08-2025 16:10:37 [main] [Tests.TC02LandingTest.login(TC02LandingTest.java:32)] - Edge driver is opened
+[INFO] 15-08-2025 16:10:45 [main] [Tests.TC02LandingTest.login(TC02LandingTest.java:34)] - Page is redirected to the URL
+[INFO] 15-08-2025 16:10:46 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case login passed
+[INFO] 15-08-2025 16:10:46 [main] [Tests.TC02LandingTest.setup(TC02LandingTest.java:48)] - chrome
+[INFO] 15-08-2025 16:10:47 [main] [Tests.TC02LandingTest.setup(TC02LandingTest.java:50)] - Edge driver is opened
+[INFO] 15-08-2025 16:10:52 [main] [Tests.TC02LandingTest.setup(TC02LandingTest.java:52)] - Page is redirected to the URL
+[INFO] 15-08-2025 16:11:05 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 15-08-2025 16:11:05 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case addingRandomProductsToCartTC started
+[INFO] 15-08-2025 16:11:05 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:59)] - randomNumber 1
+[INFO] 15-08-2025 16:11:05 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:59)] - randomNumber 3
+[INFO] 15-08-2025 16:11:05 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:59)] - randomNumber 5
+[INFO] 15-08-2025 16:11:05 [main] [Pages.P02_LandingPage.getNumberOfProductsOnCartIcon(P02_LandingPage.java:37)] - number of products on cart: 3
+[INFO] 15-08-2025 16:11:05 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:48)] - selected products: 3
+[INFO] 15-08-2025 16:11:05 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case addingRandomProductsToCartTC passed
